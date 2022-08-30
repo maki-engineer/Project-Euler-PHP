@@ -29,4 +29,4 @@ function pf($n){
 $array = pf(600851475143);
 $result = end($array);
 
-print_r($result);  # >> 6857
+echo $result;  # >> 6857
